@@ -16,6 +16,12 @@
         "component": {
             "name": "editablegrid",
             "files": [
+                "editablegrid.js",
+                "editablegrid_charts.js",
+                "editablegrid_editors.js",
+                "editablegrid_renderers.js",
+                "editablegrid_utils.js",
+                "editablegrid_validators.js"
             ]
         }
     }
