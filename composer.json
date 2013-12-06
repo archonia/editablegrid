@@ -1,0 +1,22 @@
+{
+    "name": "components/editablegrid",
+    "description": "EditableGrid is an open source JavaScript library aimed at turning tables into fully editable components.",
+    "type": "component",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Webismymind"
+        }
+    ],
+    "homepage": "http://www.editablegrid.net/en",
+    "require": {
+        "robloach/component-installer": "0.0.*"
+    },
+    "extra": {
+        "component": {
+            "name": "editablegrid",
+            "files": [
+            ]
+        }
+    }
+}
